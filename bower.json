@@ -1,0 +1,28 @@
+{
+  "name": "Calculator",
+  "version": "0.0.1",
+  "authors": [
+    "Rafinskipg"
+  ],
+  "description": "What the fuck",
+  "dependencies": {
+
+  },
+  "keywords": [
+    "gulp",
+    "angular",
+    "browserify"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+
+  }
+}
